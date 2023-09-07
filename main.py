@@ -6,7 +6,7 @@ import time
 
 MY_LAT = 51.477928
 MY_LONG = 0
-MY_EMAIL = "garvitagrawal321@gmail.com"
+MY_EMAIL = "Email"
 PASSWORD = "Password"
 
 response = requests.get(url="http://api.open-notify.org/iss-now.json")
